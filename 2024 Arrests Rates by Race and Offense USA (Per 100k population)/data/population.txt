@@ -1,0 +1,47 @@
+
+Race: 
+
++-----+----------------------------------------------------------------+---------------+------------------+
+| No. | Label                                                          | Estimate      | Margin of Error  |
++-----+----------------------------------------------------------------+---------------+------------------+
+| 1   | Total:                                                         | 340,110,990   | *****            |
+| 2   | White alone                                                    | 203,349,963   | ±126,334         |
+| 3   | Black or African American alone                                | 41,115,988    | ±105,449         |
+| 4   | American Indian and Alaska Native alone                        | 3,433,243     | ±54,565          |
+| 5   | Asian alone                                                    | 21,333,453    | ±46,902          |
+| 6   | Native Hawaiian and Other Pacific Islander alone               | 652,181       | ±18,258          |
+| 7   | Some Other Race alone                                          | 25,282,912    | ±137,517         |
+| 8   | Two or More Races:                                             | 44,943,250    | ±197,808         |
+| 9   | Two races including Some Other Race                            | 29,891,177    | ±151,631         |
+| 10  | Two races excluding Some Other Race, and three or more races   | 15,052,073    | ±144,463         |
++-----+----------------------------------------------------------------+---------------+------------------+
+
+
+Detailed Race:
+
++-----+---------------------------------------------------------------+---------------+------------------+
+| No. | Category                                                      | Population    | Margin of Error  |
++-----+---------------------------------------------------------------+---------------+------------------+
+| 1   | Total                                                         | 340,110,990   | *****            |
+| 2   | Population of one race                                        | 295,167,740   | ±197,810         |
+| 3   | White alone                                                   | 203,349,963   | ±126,334         |
+| 4   | Black or African American alone                               | 41,115,988    | ±105,449         |
+| 5   | American Indian and Alaska Native alone                       | 3,433,243     | ±54,565          |
+| 6   | Asian alone                                                   | 21,333,453    | ±46,902          |
+| 7   | Native Hawaiian and Other Pacific Islander alone              | 652,181       | ±18,258          |
+| 8   | Some Other Race alone                                         | 25,282,912    | ±137,517         |
+| 9   | Population of two or more races                               | 44,943,250    | ±197,808         |
+| 10  | Two races including Some Other Race                           | 29,891,177    | ±151,631         |
+| 11  | Two races excluding Some Other Race, and three or more races  | 15,052,073    | ±144,463         |
+| 12  | Population of two races                                       | 42,040,241    | ±191,652         |
+| 13  | White; Black or African American                              | 4,281,238     | ±75,717          |
+| 14  | White; American Indian and Alaska Native                      | 3,104,311     | ±35,679          |
+| 15  | White; Asian                                                  | 3,279,116     | ±46,212          |
+| 16  | White; Some Other Race                                        | 27,894,500    | ±146,957         |
+| 17  | Black or African American; American Indian and Alaska Native  | 524,767       | ±24,547          |
+| 18  | Black or African American; Some Other Race                    | 1,317,679     | ±41,177          |
+| 19  | All other two race combinations                               | 1,638,630     | ±38,980          |
+| 20  | Population of three races                                     | 2,580,698     | ±56,506          |
+| 21  | Population of four or more races                              | 322,311       | ±16,909          |
++-----+---------------------------------------------------------------+---------------+------------------+
+
